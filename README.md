@@ -2,4 +2,4 @@
 
 [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
 
-See [CWRC-GitWriter](https://github.com/cwrc/CWRC-GitWriter) for documentation.
+This repo has been merged with CWRC-GitWriter and can be found at: https://github.com/cwrc/CWRC-GitWriter/tree/development.
